@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1432f47b.css",
+    "main.js": "/static/js/main.fc41a51b.js",
+    "static/js/239.81ccf377.chunk.js": "/static/js/239.81ccf377.chunk.js",
+    "static/js/213.785a7c15.chunk.js": "/static/js/213.785a7c15.chunk.js",
+    "static/js/732.b1d353d9.chunk.js": "/static/js/732.b1d353d9.chunk.js",
+    "static/js/453.6a1aaf01.chunk.js": "/static/js/453.6a1aaf01.chunk.js",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/ProfilePic.jpg": "/static/media/ProfilePic.31104874038c078d1fce.jpg",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/send.svg": "/static/media/send.9a20b54ebb3dd442d4bd42501848eb11.svg",
+    "index.html": "/index.html",
+    "static/media/download.svg": "/static/media/download.9e3117cf9bd37d170a1df26d540f3330.svg",
+    "main.1432f47b.css.map": "/static/css/main.1432f47b.css.map",
+    "main.fc41a51b.js.map": "/static/js/main.fc41a51b.js.map",
+    "239.81ccf377.chunk.js.map": "/static/js/239.81ccf377.chunk.js.map",
+    "213.785a7c15.chunk.js.map": "/static/js/213.785a7c15.chunk.js.map",
+    "732.b1d353d9.chunk.js.map": "/static/js/732.b1d353d9.chunk.js.map",
+    "453.6a1aaf01.chunk.js.map": "/static/js/453.6a1aaf01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1432f47b.css",
+    "static/js/main.fc41a51b.js"
+  ]
+}
